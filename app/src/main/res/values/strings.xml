@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">CSE-CourseName</string>
+
+    <string name="sem_1">Sem-1</string>
+    <string name="sem_2">Sem-2</string>
+    <string name="sem_3">Sem-3</string>
+    <string name="sem_4">Sem-4</string>
+    <string name="sem_5">Sem-5</string>
+    <string name="sem_6">Sem-6</string>
+    <string name="sem_7">Sem-7</string>
+    <string name="sem_8">Sem-8</string>
+
+
+    <string name="textView6"> semester........6</string>
+    <string name="textView7"> semester........7</string>
+    <string name="textView8"> semester........8</string>
+
+
+
+<string name="first">1st Semester</string>
+<string name="second">2nd Semester</string>
+<string name="third">3rd Semester</string>
+<string name="four">4th Semester</string>
+<string name="five">5th Semester</string>
+<string name="six">6th Semester</string>
+<string name="seven">7th Semester</string>
+<string name="eight">8th Semester</string>
+    <string name="home">Home</string>
+    <string name="code">Code</string>
+    <string name="code1">CSE  101</string>
+    <string name="name">Course Name</string>
+    <string name="name1">Introduction to Computer System</string>
+    <string name="credit">Credit</string>
+
+
+    <string-array name="First">
+
+        <item>Introduction to Computer Systems(2)</item>
+        <item>Introduction to Computer Systems Lab(1)</item>
+
+        <item>Fundamental Mathematics(3)</item>
+        <item>Waves,Optics and Thermodynamics(3)</item>
+        <item>Waves,Optics and Thermodynamics Lab(1)</item>
+        <item>Bangla(3)</item>
+        <item>The Four Skills of Communication in(3)</item>
+        <item>Fundamental of Electrical Engineering(3)</item>
+        <item>Fundamental of Electrical Engineering Lab(1)</item>
+        <item>Total 20 credit</item>
+
+
+</string-array>
+
+    <string-array name="abbreviations_list_header">
+        <item>oop</item>
+        <item>oop</item>
+        <item>oop</item>
+        <item>oop</item>
+        <item>oop</item>
+        <item>oop</item>
+        <item>oop</item>
+        <item>oop</item>
+        <item>oop</item>
+        <item>oop</item>
+        <item>oop</item>
+        <item>oop</item>
+    </string-array>
+
+    <string-array name="abbreviations_list_child">
+        <item>book names</item>
+        <item>book names</item>
+        <item>book names</item>
+        <item>book names</item>
+        <item>book names</item>
+        <item>book names</item>
+        <item>book names</item>
+        <item>oop</item>
+        <item>oop</item>
+        <item>oop</item>
+        <item>oop</item>
+    </string-array>
+
+</resources>

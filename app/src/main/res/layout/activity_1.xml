@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="30dp"
+    tools:context=".Activity1">
+
+
+
+
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sem_1"
+        android:textSize="24sp"
+        android:paddingVertical="25dp"
+        android:layout_marginLeft="20dp"
+        android:paddingHorizontal="20dp"
+        android:textStyle="bold" />
+
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sem_2"
+        android:textSize="24sp"
+        android:paddingVertical="25dp"
+        android:paddingHorizontal="20dp"
+        android:layout_marginLeft="170dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sem_3"
+        android:textSize="24sp"
+        android:paddingVertical="25dp"
+        android:paddingHorizontal="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_below="@+id/btn1"
+        android:textStyle="bold" />
+
+
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sem_4"
+        android:textSize="24sp"
+        android:paddingVertical="25dp"
+        android:paddingHorizontal="20dp"
+        android:layout_marginLeft="170dp"
+        android:layout_below="@+id/btn2"
+        android:textStyle="bold" />
+
+
+    <Button
+        android:id="@+id/btn5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sem_5"
+        android:textSize="24sp"
+        android:paddingVertical="25dp"
+        android:paddingHorizontal="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_below="@+id/btn3"
+        android:textStyle="bold" />
+
+
+
+
+    <Button
+        android:id="@+id/btn6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sem_6"
+        android:textSize="24sp"
+        android:paddingVertical="25dp"
+        android:paddingHorizontal="20dp"
+        android:layout_marginLeft="170dp"
+        android:layout_below="@+id/btn4"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sem_7"
+        android:textSize="24sp"
+        android:paddingVertical="25dp"
+        android:paddingHorizontal="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_below="@+id/btn5"
+        android:textStyle="bold" />
+
+
+    <Button
+        android:id="@+id/btn8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sem_8"
+        android:textSize="24sp"
+        android:paddingVertical="25dp"
+        android:paddingHorizontal="20dp"
+        android:layout_marginLeft="170dp"
+        android:layout_below="@+id/btn6"
+        android:textStyle="bold" />
+
+
+
+</RelativeLayout>
